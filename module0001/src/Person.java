@@ -1,3 +1,5 @@
+import java.security.PrivateKey;
+
 /**
  * @Auther: kangsheng
  * @Date: 2020/11/6 - 11 - 06 - 23:01
@@ -6,7 +8,7 @@
  */
 public class Person {
     //这是一个main方法，是程序的入口：
+    private int age;
     public static void main(String[] args) {
-
     }
 }
